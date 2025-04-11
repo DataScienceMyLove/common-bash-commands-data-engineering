@@ -1,0 +1,2 @@
+Voici un nouveau fichier
+Je peux continuer à le modifier et à changer son nom avec la commande touch
