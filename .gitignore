@@ -1,5 +1,3 @@
-# Ignorer tous les screenshots de mon working directory
-Screenshot-*.png
 # Fichiers système courants à ignorer
 .DS_Store
 Thumbs.db
