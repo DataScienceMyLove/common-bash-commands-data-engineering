@@ -1,2 +1,10 @@
-# Ignorer tous les fichiers screenshot
+# Ignorer tous les screenshots de mon working directory
 Screenshot-*.png
+# Fichiers système courants à ignorer
+.DS_Store
+Thumbs.db
+# logs
+*.log
+# Dossiers Python
+__pycache__/
+*.pyc
